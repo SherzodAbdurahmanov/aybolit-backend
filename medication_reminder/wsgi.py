@@ -1,5 +1,5 @@
 """
-WSGI config for medication_reminder project.
+WSGI config for medication_reminderjhh project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
